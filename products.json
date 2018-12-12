@@ -6,16 +6,16 @@
 		"imageUrl": "",
 		"models": ["Cookie", "Cookie Plus"],
 		"features": [{
-			"name": "Taste",
+			"name": "",
 			"value": {
-				"Cookie": "great",
-				"Cookie Plus": "great, but bigger"
+				"Cookie": "<img src='/images/products/cookie/chocolate-chip.png'></img>",
+				"Cookie Plus": "<img src='/images/products/cookie/chocolate-chip.png'></img>"
 			}
 		}, {
-			"name": "Taste",
+			"name": "Price",
 			"value": {
-				"Cookie": "great",
-				"Cookie Plus": "great, but bigger"
+				"Cookie": "free",
+				"Cookie Plus": "free, but bigger"
 			}
 		}, {
 			"name": "Taste",

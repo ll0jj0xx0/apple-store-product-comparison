@@ -1,5 +1,11 @@
 app = angular.module("app", ["ngRoute"]);
 
+app.filter("trust", ['$sce', function($sce) {
+  return function(htmlCode){
+    return $sce.trustAsHtml(htmlCode);
+  }
+}]);
+
 app.config([
   "$routeProvider",
   "$locationProvider",

@@ -3,12 +3,20 @@
         <h1>{{product.name}}</h1>
     </div>
     <div class="features">
+        <div class="feature-row row">
+            <div class="feature-title col-sm">
+
+            </div>
+            <div ng-repeat="model in product.models" class="col-sm">
+                <h3>{{model}}</h3>
+            </div>
+        </div>
         <div ng-repeat="feature in product.features" class="feature-row row">
             <div class="feature-title col-sm">
                 {{feature.name}}
             </div>
-            <div ng-repeat="model in product.models" class="col-sm">
-                {{feature.value[model]}}
+            <div ng-repeat="model in product.models" class="feature-value col-sm">
+                <div ng-bind-html="feature.value[model] | trust"></div>
             </div>
         </div>
     </div>
