@@ -1,0 +1,40 @@
+{
+	"cookie": {
+		"name": "the new cookie",
+		"headline": "Reinvent Cookie",
+		"subheading": "",
+		"imageUrl": "",
+		"models": ["Cookie", "Cookie Plus"],
+		"features": [{
+			"name": "Taste",
+			"value": {
+				"Cookie": "great",
+				"Cookie Plus": "great, but bigger"
+			}
+		}, {
+			"name": "Taste",
+			"value": {
+				"Cookie": "great",
+				"Cookie Plus": "great, but bigger"
+			}
+		}, {
+			"name": "Taste",
+			"value": {
+				"Cookie": "great",
+				"Cookie Plus": "great, but bigger"
+			}
+		}, {
+			"name": "Taste",
+			"value": {
+				"Cookie": "great",
+				"Cookie Plus": "great, but bigger"
+			}
+		}, {
+			"name": "Taste",
+			"value": {
+				"Cookie": "great",
+				"Cookie Plus": "great, but bigger"
+			}
+		}]
+	}
+}
