@@ -4,7 +4,7 @@
 		"headline": "Cookie Reinvented. Again",
 		"subheading": "",
     "description": "Amazing, Wonderful. Blah Blah. Redefined. Beautiful",
-		"imageUrl": "/images/products/cookie/hero.webp",
+		"imageUrl": "/images/products/cookie/hero.png",
 		"models": ["Cookie", "Cookie Plus"],
 		"features": [{
 			"name": "",
@@ -43,7 +43,7 @@
     "headline": "Like a chocolate cookie. \nUnlike any chocolate cookie.",
     "subheading": "",
     "description": "Amazing, Wonderful. Blah Blah. Redefined. Beautiful",
-    "imageUrl": "/images/products/cookie-dark/hero.webp",
+    "imageUrl": "/images/products/cookie-dark/hero.png",
     "models": ["Cookie Dark", "Cookie Dark Plus"],
     "features": [{
       "name": "",
