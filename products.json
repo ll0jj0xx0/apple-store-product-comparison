@@ -1,9 +1,10 @@
 {
 	"cookie": {
 		"name": "the new cookie",
-		"headline": "Reinvent Cookie",
+		"headline": "Cookie Reinvented. Again",
 		"subheading": "",
-		"imageUrl": "",
+    "description": "Amazing, Wonderful. Blah Blah. Redefined. Beautiful",
+		"imageUrl": "/images/products/cookie/hero.webp",
 		"models": ["Cookie", "Cookie Plus"],
 		"features": [{
 			"name": "",
@@ -36,5 +37,122 @@
 				"Cookie Plus": "great, but bigger"
 			}
 		}]
-	}
+	},
+  "cookieDark": {
+    "name": "cookie dark",
+    "headline": "Like a chocolate cookie. \nUnlike any chocolate cookie.",
+    "subheading": "",
+    "description": "Amazing, Wonderful. Blah Blah. Redefined. Beautiful",
+    "imageUrl": "/images/products/cookie-dark/hero.webp",
+    "models": ["Cookie Dark", "Cookie Dark Plus"],
+    "features": [{
+      "name": "",
+      "value": {
+        "Cookie Dark": "<img src='/images/products/cookie-dark/chocolate.png'></img>",
+        "Cookie Dark Plus": "<img src='/images/products/cookie-dark/chocolate.png'></img>"
+      }
+    }, {
+      "name": "Price",
+      "value": {
+        "Cookie Dark": "free",
+        "Cookie Dark Plus": "free, but bigger"
+      }
+    }, {
+      "name": "Taste",
+      "value": {
+        "Cookie Dark": "great",
+        "Cookie Dark Plus": "great, but bigger"
+      }
+    }, {
+      "name": "Taste",
+      "value": {
+        "Cookie Dark": "great",
+        "Cookie Dark Plus": "great, but bigger"
+      }
+    }, {
+      "name": "Taste",
+      "value": {
+        "Cookie Dark": "great",
+        "Cookie Dark Plus": "great, but bigger"
+      }
+    }]
+  },
+  "vodka": {
+    "name": "Apple Nice",
+    "headline": "Apple in it. No apple in it.",
+    "subheading": "",
+    "description": "Amazing, Wonderful. Blah Blah. Redefined. Beautiful",
+    "imageUrl": "/images/products/cider/hero.png",
+    "models": ["Apple Nice", "Apple Nice Plus"],
+    "features": [{
+      "name": "",
+      "value": {
+        "Apple Nice": "<img src='/images/products/cider/cider.png'></img>",
+        "Apple Nice Plus": "<img src='/images/products/cider/cider.png'></img>"
+      }
+    }, {
+      "name": "Price",
+      "value": {
+        "Apple Nice": "free",
+        "Apple Nice Plus": "free, but bigger"
+      }
+    }, {
+      "name": "Taste",
+      "value": {
+        "Apple Nice": "great",
+        "Apple Nice Plus": "great, but bigger"
+      }
+    }, {
+      "name": "Taste",
+      "value": {
+        "Apple Nice": "great",
+        "Apple Nice Plus": "great, but bigger"
+      }
+    }, {
+      "name": "Taste",
+      "value": {
+        "Apple Nice": "great",
+        "Apple Nice Plus": "great, but bigger"
+      }
+    }]
+  },
+  "fireball": {
+    "name": "Apple Spice",
+    "headline": "Beaty outside. Beast inside.",
+    "subheading": "",
+    "description": "Amazing, Wonderful. Blah Blah. Redefined. Beautiful",
+    "imageUrl": "",
+    "models": ["Apple Spice", "Apple Spice Plus"],
+    "features": [{
+      "name": "",
+      "value": {
+        "Apple Spice": "<img src='/images/products/fireball/fireball.png'></img>",
+        "Apple Spice Plus": "<img src='/images/products/fireball/fireball.png'></img>"
+      }
+    }, {
+      "name": "Price",
+      "value": {
+        "Apple Spice": "free",
+        "Apple Spice Plus": "free, but bigger"
+      }
+    }, {
+      "name": "Taste",
+      "value": {
+        "Apple Spice": "great",
+        "Apple Spice Plus": "great, but bigger"
+      }
+    }, {
+      "name": "Taste",
+      "value": {
+        "Apple Spice": "great",
+        "Apple Spice Plus": "great, but bigger"
+      }
+    }, {
+      "name": "Taste",
+      "value": {
+        "Apple Spice": "great",
+        "Apple Spice Plus": "great, but bigger"
+      }
+    }]
+  }
 }
