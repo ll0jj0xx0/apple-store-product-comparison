@@ -13,36 +13,36 @@
       {
         "name": "",
         "value": {
-          "Cookie": "<img src='/images/products/cookie/cookie.png'></img>",
-          "Cookie Plus": "<img src='/images/products/cookie/cookie-plus.png'></img>"
+          "Cinnamon Sugar": "<img src='/images/products/cookie/cookie.png'></img>",
+          "Cinnamon Sugar Plus": "<img src='/images/products/cookie/cookie-plus.png'></img>"
         }
       },
       {
         "name": "Price",
         "value": {
-          "Cookie": "free",
-          "Cookie Plus": "free, and you get a jello shot"
+          "Cinnamon Sugar": "free",
+          "Cinnamon Sugar Plus": "free, and you get a jello shot"
         }
       },
       {
         "name": "Taste",
         "value": {
-          "Cookie": "like a cinnamon sugar cookie",
-          "Cookie Plus": "like a cinnamon sugar cookie, but more groundbreaking"
+          "Cinnamon Sugar": "like a cinnamon sugar cookie",
+          "Cinnamon Sugar Plus": "like a cinnamon sugar cookie, but more groundbreaking"
         }
       },
       {
         "name": "Nutrition Facts",
         "value": {
-          "Cookie": "has zero negative impact on your health",
-          "Cookie Plus": "makes you skinnier and more attractive"
+          "Cinnamon Sugar": "has zero negative impact on your health",
+          "Cinnamon Sugar Plus": "makes you skinnier and more attractive"
         }
       },
       {
         "name": "Size and Weight",
         "value": {
-          "Cookie": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound",
-          "Cookie Plus": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound"
+          "Cinnamon Sugar": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound",
+          "Cinnamon Sugar Plus": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound"
         }
       }
     ]
@@ -61,31 +61,38 @@
       {
         "name": "",
         "value": {
-          "Cookie Dark": "<img src='/images/products/cookie-dark/chocolate.png'></img>",
-          "Cookie Dark Plus": "<img src='/images/products/cookie-dark/chocolate-plus.png'></img>"
+          "Chocolate": "<img src='/images/products/cookie-dark/chocolate.png'></img>",
+          "Chocolate Plus": "<img src='/images/products/cookie-dark/chocolate-plus.png'></img>"
         }
       },
       {
         "name": "Price",
         "value": {
-          "Cookie Dark": "free",
-          "Cookie Dark Plus": "free, and you get a jello shot"
+          "Chocolate": "free",
+          "Chocolate Plus": "free, and you get a jello shot"
         }
       },
       {
         "name": "Taste",
         "value": {
-          "Cookie Dark": "like a chocolate cookie",
-          "Cookie Dark Plus": "like a chocolate cookie, but better"
+          "Chocolate": "like a chocolate cookie",
+          "Chocolate Plus": "like a chocolate cookie, but better"
         }
       },
       {
         "name": "Nutrition Facts",
         "value": {
-          "Cookie": "equivalent to your daily requirement of fruits and vegetables",
-          "Cookie Plus": "cures cancer"
+          "Chocolate": "equivalent to your daily requirement of fruits and vegetables",
+          "Chocolate Plus": "cures cancer"
         }
       },
+      {
+        "name": "Size and Weight",
+        "value": {
+          "Chocolate": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound",
+          "Chocolate Plus": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound"
+        }
+      }
     ]
   },
   "vodka": {
