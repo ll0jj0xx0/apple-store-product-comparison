@@ -1,158 +1,222 @@
 {
-	"cookie": {
-		"name": "the new cookie",
-		"headline": "Cookie Reinvented. Again",
-		"subheading": "",
-    "description": "Amazing, Wonderful. Blah Blah. Redefined. Beautiful",
-		"imageUrl": "/images/products/cookie/hero.png",
-		"models": ["Cookie", "Cookie Plus"],
-		"features": [{
-			"name": "",
-			"value": {
-				"Cookie": "<img src='/images/products/cookie/chocolate-chip.png'></img>",
-				"Cookie Plus": "<img src='/images/products/cookie/chocolate-chip.png'></img>"
-			}
-		}, {
-			"name": "Price",
-			"value": {
-				"Cookie": "free",
-				"Cookie Plus": "free, but bigger"
-			}
-		}, {
-			"name": "Taste",
-			"value": {
-				"Cookie": "great",
-				"Cookie Plus": "great, but bigger"
-			}
-		}, {
-			"name": "Taste",
-			"value": {
-				"Cookie": "great",
-				"Cookie Plus": "great, but bigger"
-			}
-		}, {
-			"name": "Taste",
-			"value": {
-				"Cookie": "great",
-				"Cookie Plus": "great, but bigger"
-			}
-		}]
-	},
+  "cookie": {
+    "name": "the new cookie",
+    "headline": "Cookie Reinvented. Again",
+    "subheading": "",
+    "description": "The most loved cookie is about to make you fall in love all over again. Available in regular and plus sizes, the new thinner and lighter cookie features a brilliant Retina display, Touch ID, the latest-generation keyboard, and a Force Touch trackpad. The iconic shape is created from 100 percent recycled aluminum, making it the greenest cookie ever. And with all-day battery life, the new cookie is your perfectly portable, do-it-all cookie.",
+    "imageUrl": "/images/products/cookie/hero.png",
+    "models": [
+      "Cookie",
+      "Cookie Plus"
+    ],
+    "features": [
+      {
+        "name": "",
+        "value": {
+          "Cookie": "<img src='/images/products/cookie/chocolate-chip.png'></img>",
+          "Cookie Plus": "<img src='/images/products/cookie/chocolate-chip.png'></img>"
+        }
+      },
+      {
+        "name": "Price",
+        "value": {
+          "Cookie": "free",
+          "Cookie Plus": "free, but bigger"
+        }
+      },
+      {
+        "name": "Taste",
+        "value": {
+          "Cookie": "like a cookie",
+          "Cookie Plus": "like a cookie, but bigger"
+        }
+      },
+      {
+        "name": "Display",
+        "value": {
+          "Cookie": "Retina display. It looks so real.",
+          "Cookie Plus": "Retina display. It looks so real, but bigger"
+        }
+      },
+      {
+        "name": "Touch ID",
+        "value": {
+          "Cookie": "You can touch it",
+          "Cookie Plus": "You can touch it, but bigger"
+        }
+      },
+      {
+        "name": "Memory",
+        "value": {
+          "Cookie": "All day",
+          "Cookie Plus": "All day, but bigger"
+        }
+      },
+      {
+        "name": "Size and Weight",
+        "value": {
+          "Cookie": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound",
+          "Cookie Plus": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound"
+        }
+      }
+    ]
+  },
   "cookieDark": {
     "name": "cookie dark",
     "headline": "Like a chocolate cookie. \nUnlike any chocolate cookie.",
     "subheading": "",
-    "description": "Amazing, Wonderful. Blah Blah. Redefined. Beautiful",
+    "description": "Super Retina in two sizes — including the largest display ever on an cookie. Even faster Face ID. The smartest, most powerful chip in a cookie. And a breakthrough baking system with Depth Control. cookie dark is everything you love about cookie. Taken to the extreme.",
     "imageUrl": "/images/products/cookie-dark/hero.png",
-    "models": ["Cookie Dark", "Cookie Dark Plus"],
-    "features": [{
-      "name": "",
-      "value": {
-        "Cookie Dark": "<img src='/images/products/cookie-dark/chocolate.png'></img>",
-        "Cookie Dark Plus": "<img src='/images/products/cookie-dark/chocolate.png'></img>"
+    "models": [
+      "Cookie Dark",
+      "Cookie Dark Plus"
+    ],
+    "features": [
+      {
+        "name": "",
+        "value": {
+          "Cookie Dark": "<img src='/images/products/cookie-dark/chocolate.png'></img>",
+          "Cookie Dark Plus": "<img src='/images/products/cookie-dark/chocolate.png'></img>"
+        }
+      },
+      {
+        "name": "Price",
+        "value": {
+          "Cookie Dark": "free",
+          "Cookie Dark Plus": "free, but bigger"
+        }
+      },
+      {
+        "name": "Taste",
+        "value": {
+          "Cookie Dark": "like a chocolate cookie",
+          "Cookie Dark Plus": "like a chocolate cookie, but bigger"
+        }
+      },
+      {
+        "name": "Display",
+        "value": {
+          "Cookie Dark": "Super Retina display. It looks so real.",
+          "Cookie Dark Plus": "Super Retina display. It looks so real, but bigger"
+        }
+      },
+      {
+        "name": "Face ID",
+        "value": {
+          "Cookie Dark": "You can look at it",
+          "Cookie Dark Plus": "You can look at it, but bigger"
+        }
+      },
+      {
+        "name": "Memory",
+        "value": {
+          "Cookie Dark": "All day",
+          "Cookie Dark Plus": "All day, but bigger"
+        }
+      },
+      {
+        "name": "Size and Weight",
+        "value": {
+          "Cookie Dark": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound",
+          "Cookie Dark Plus": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound"
+        }
       }
-    }, {
-      "name": "Price",
-      "value": {
-        "Cookie Dark": "free",
-        "Cookie Dark Plus": "free, but bigger"
-      }
-    }, {
-      "name": "Taste",
-      "value": {
-        "Cookie Dark": "great",
-        "Cookie Dark Plus": "great, but bigger"
-      }
-    }, {
-      "name": "Taste",
-      "value": {
-        "Cookie Dark": "great",
-        "Cookie Dark Plus": "great, but bigger"
-      }
-    }, {
-      "name": "Taste",
-      "value": {
-        "Cookie Dark": "great",
-        "Cookie Dark Plus": "great, but bigger"
-      }
-    }]
+    ]
   },
   "vodka": {
     "name": "Apple Nice",
-    "headline": "Apple in it. No apple in it.",
+    "headline": "Stay active. Stay healthy.",
     "subheading": "",
-    "description": "Amazing, Wonderful. Blah Blah. Redefined. Beautiful",
+    "description": "Monitor your health. Track your workouts. Get the motivation you need to achieve your fitness goals. And stay connected to the people and information you care about. With Apple Nice, you can do it all.",
     "imageUrl": "/images/products/cider/hero.png",
-    "models": ["Apple Nice", "Apple Nice Plus"],
-    "features": [{
-      "name": "",
-      "value": {
-        "Apple Nice": "<img src='/images/products/cider/cider.png'></img>",
-        "Apple Nice Plus": "<img src='/images/products/cider/cider.png'></img>"
+    "models": [
+      "Apple Nice",
+      "Apple Nice Plus"
+    ],
+    "features": [
+      {
+        "name": "",
+        "value": {
+          "Apple Nice": "<img src='/images/products/cider/cider.png'></img>",
+          "Apple Nice Plus": "<img src='/images/products/cider/cider.png'></img>"
+        }
+      },
+      {
+        "name": "Price",
+        "value": {
+          "Apple Nice": "free",
+          "Apple Nice Plus": "free, but in a bigger cup"
+        }
+      },
+      {
+        "name": "Taste",
+        "value": {
+          "Apple Nice": "great",
+          "Apple Nice Plus": "great, but in a bigger cup"
+        }
+      },
+      {
+        "name": "Finishes",
+        "value": {
+          "Apple Nice": "glass",
+          "Apple Nice Plus": "glass, but in a bigger cup"
+        }
+      },
+      {
+        "name": "Size and Weight",
+        "value": {
+          "Apple Nice": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound",
+          "Apple Nice Plus": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound"
+        }
       }
-    }, {
-      "name": "Price",
-      "value": {
-        "Apple Nice": "free",
-        "Apple Nice Plus": "free, but bigger"
-      }
-    }, {
-      "name": "Taste",
-      "value": {
-        "Apple Nice": "great",
-        "Apple Nice Plus": "great, but bigger"
-      }
-    }, {
-      "name": "Taste",
-      "value": {
-        "Apple Nice": "great",
-        "Apple Nice Plus": "great, but bigger"
-      }
-    }, {
-      "name": "Taste",
-      "value": {
-        "Apple Nice": "great",
-        "Apple Nice Plus": "great, but bigger"
-      }
-    }]
+    ]
   },
   "fireball": {
     "name": "Apple Spice",
     "headline": "Beaty outside. Beast inside.",
     "subheading": "",
-    "description": "Amazing, Wonderful. Blah Blah. Redefined. Beautiful",
-    "imageUrl": "",
-    "models": ["Apple Spice", "Apple Spice Plus"],
-    "features": [{
-      "name": "",
-      "value": {
-        "Apple Spice": "<img src='/images/products/fireball/fireball.png'></img>",
-        "Apple Spice Plus": "<img src='/images/products/fireball/fireball.png'></img>"
+    "description": "Apple Spice lets you watch movies and shows in amazing 4K HDR — and now it completes the picture with immersive sound from Dolby Atmos.1 It streams your favorite channels live. Has great content from apps like Netflix, Amazon Prime Video, and ESPN.2 And thanks to Siri, you can control it all with just your voice.",
+    "imageUrl": "/images/products/fireball/hero.png",
+    "models": [
+      "Apple Spice",
+      "Apple Spice Plus"
+    ],
+    "features": [
+      {
+        "name": "",
+        "value": {
+          "Apple Spice": "<img src='/images/products/fireball/fireball.png'></img>",
+          "Apple Spice Plus": "<img src='/images/products/fireball/fireball.png'></img>"
+        }
+      },
+      {
+        "name": "Price",
+        "value": {
+          "Apple Spice": "free",
+          "Apple Spice Plus": "free, but in a bigger cup"
+        }
+      },
+      {
+        "name": "Taste",
+        "value": {
+          "Apple Spice": "great",
+          "Apple Spice Plus": "great, but in a bigger cup"
+        }
+      },
+      {
+        "name": "Finishes",
+        "value": {
+          "Apple Spice": "glass",
+          "Apple Spice Plus": "glass, but in a bigger cup"
+        }
+      },
+      {
+        "name": "Size and Weight",
+        "value": {
+          "Apple Spice": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound",
+          "Apple Spice Plus": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound"
+        }
       }
-    }, {
-      "name": "Price",
-      "value": {
-        "Apple Spice": "free",
-        "Apple Spice Plus": "free, but bigger"
-      }
-    }, {
-      "name": "Taste",
-      "value": {
-        "Apple Spice": "great",
-        "Apple Spice Plus": "great, but bigger"
-      }
-    }, {
-      "name": "Taste",
-      "value": {
-        "Apple Spice": "great",
-        "Apple Spice Plus": "great, but bigger"
-      }
-    }, {
-      "name": "Taste",
-      "value": {
-        "Apple Spice": "great",
-        "Apple Spice Plus": "great, but bigger"
-      }
-    }]
+    ]
   }
 }
