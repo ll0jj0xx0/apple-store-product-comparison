@@ -92,7 +92,7 @@
     "name": "Apple Nice",
     "headline": "Stay active. Stay healthy.",
     "subheading": "",
-    "description": "Monitor your health. Track your workouts. Get the motivation you need to achieve your fitness goals. And stay connected to the people and information you care about. With Apple Nice, you can do it all.",
+    "description": "Monitor your health. Track your workouts. Get the motivation you need to achieve... actually, this drink achieves the opposite of those things just mentioned.  While the Apple Nice probably won't make you healthier you'll definitely have more fun than if you were sober.  Just tell yourself you'll work out extra hard tomorrow.",
     "imageUrl": "/images/products/cider/hero.png",
     "models": [
       "Apple Nice",
@@ -121,13 +121,6 @@
         }
       },
       {
-        "name": "Finishes",
-        "value": {
-          "Apple Nice": "glass",
-          "Apple Nice Plus": "glass, but in a bigger cup"
-        }
-      },
-      {
         "name": "Size and Weight",
         "value": {
           "Apple Nice": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound",
@@ -140,7 +133,7 @@
     "name": "Apple Spice",
     "headline": "Beaty outside. Beast inside.",
     "subheading": "",
-    "description": "Our Apple Spice represents the culmination of alcohol and cider technology, perfected through thousands of hours of trail and error(many hangovers).  We've achieved the optimum ratios of vodka, apple cider and lemon juice and fused them into a tasty drink that will change your life",
+    "description": "The Apple Spice represents the culmination of alcohol and cider technology, perfected through thousands of hours of meticulous trial and error(many hangovers).  We've achieved the optimum ratio of vodka, apple cider and lemon juice and fused them into a tasty drink that will revolutionize alcoholic beverages, again.",
     "imageUrl": "/images/products/fireball/hero.png",
     "models": [
       "Apple Spice",
@@ -166,13 +159,6 @@
         "value": {
           "Apple Spice": "great",
           "Apple Spice Plus": "great, but in a bigger cup"
-        }
-      },
-      {
-        "name": "Finishes",
-        "value": {
-          "Apple Spice": "glass",
-          "Apple Spice Plus": "glass, but in a bigger cup"
         }
       },
       {
