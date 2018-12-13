@@ -1,13 +1,13 @@
 {
   "cookie": {
-    "name": "the new cookie",
-    "headline": "Cookie Reinvented. Again",
+    "name": "Cinnamon Sugar",
+    "headline": "The Cookie Reinvented. Again",
     "subheading": "",
-    "description": "The most loved cookie is about to make you fall in love all over again. Available in regular and plus sizes, the new thinner and lighter cookie features a brilliant Retina display, Touch ID, the latest-generation keyboard, and a Force Touch trackpad. The iconic shape is created from 100 percent recycled aluminum, making it the greenest cookie ever. And with all-day battery life, the new cookie is your perfectly portable, do-it-all cookie.",
+    "description": "To say that this cookie will change your life is to so vastly understate it's importance that we simply must call it most significant achievemnt in human history.  Yes, it's just sugar, butter and flower but never before have those three ingredients come together in a way that manifests utter perfection",
     "imageUrl": "/images/products/cookie/hero.png",
     "models": [
-      "Cookie",
-      "Cookie Plus"
+      "Cinnamon Sugar",
+      "Cinnamon Sugar Plus"
     ],
     "features": [
       {
@@ -21,35 +21,21 @@
         "name": "Price",
         "value": {
           "Cookie": "free",
-          "Cookie Plus": "free, but bigger"
+          "Cookie Plus": "free, and you get a jello shot"
         }
       },
       {
         "name": "Taste",
         "value": {
-          "Cookie": "like a cookie",
-          "Cookie Plus": "like a cookie, but bigger"
+          "Cookie": "like a cinnamon sugar cookie",
+          "Cookie Plus": "like a cinnamon sugar cookie, but more groundbreaking"
         }
       },
       {
-        "name": "Display",
+        "name": "Nutrition Facts",
         "value": {
-          "Cookie": "Retina display. It looks so real.",
-          "Cookie Plus": "Retina display. It looks so real, but bigger"
-        }
-      },
-      {
-        "name": "Touch ID",
-        "value": {
-          "Cookie": "You can touch it",
-          "Cookie Plus": "You can touch it, but bigger"
-        }
-      },
-      {
-        "name": "Memory",
-        "value": {
-          "Cookie": "All day",
-          "Cookie Plus": "All day, but bigger"
+          "Cookie": "has zero negative impact on your health",
+          "Cookie Plus": "makes you skinnier and more attractive"
         }
       },
       {
@@ -62,14 +48,14 @@
     ]
   },
   "cookieDark": {
-    "name": "cookie dark",
-    "headline": "Like a chocolate cookie. \nUnlike any chocolate cookie.",
+    "name": "Chocolate",
+    "headline": "Like a chocolate cookie. \nUnlike any chocolate cookie",
     "subheading": "",
-    "description": "Super Retina in two sizes — including the largest display ever on an cookie. Even faster Face ID. The smartest, most powerful chip in a cookie. And a breakthrough baking system with Depth Control. cookie dark is everything you love about cookie. Taken to the extreme.",
+    "description": "The most loved cookie is about to make you fall in love all over again. Available in regular and plus sizes, our new cookies represent the next evolution in baking technology.  Sleek and sugary with a taste as revolutionary as it is delicious, our cookies will literally change your life.  No, we mean literally change. your. life.",
     "imageUrl": "/images/products/cookie-dark/hero.png",
     "models": [
-      "Cookie Dark",
-      "Cookie Dark Plus"
+      "Chocolate",
+      "Chocolate Plus"
     ],
     "features": [
       {
@@ -83,51 +69,30 @@
         "name": "Price",
         "value": {
           "Cookie Dark": "free",
-          "Cookie Dark Plus": "free, but bigger"
+          "Cookie Dark Plus": "free, and you get a jello shot"
         }
       },
       {
         "name": "Taste",
         "value": {
           "Cookie Dark": "like a chocolate cookie",
-          "Cookie Dark Plus": "like a chocolate cookie, but bigger"
+          "Cookie Dark Plus": "like a chocolate cookie, but better"
         }
       },
       {
-        "name": "Display",
+        "name": "Nutrition Facts",
         "value": {
-          "Cookie Dark": "Super Retina display. It looks so real.",
-          "Cookie Dark Plus": "Super Retina display. It looks so real, but bigger"
+          "Cookie": "equivalent to your daily requirement of fruits and vegetables",
+          "Cookie Plus": "cures cancer"
         }
       },
-      {
-        "name": "Face ID",
-        "value": {
-          "Cookie Dark": "You can look at it",
-          "Cookie Dark Plus": "You can look at it, but bigger"
-        }
-      },
-      {
-        "name": "Memory",
-        "value": {
-          "Cookie Dark": "All day",
-          "Cookie Dark Plus": "All day, but bigger"
-        }
-      },
-      {
-        "name": "Size and Weight",
-        "value": {
-          "Cookie Dark": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound",
-          "Cookie Dark Plus": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound"
-        }
-      }
     ]
   },
   "vodka": {
     "name": "Apple Nice",
     "headline": "Stay active. Stay healthy.",
     "subheading": "",
-    "description": "Monitor your health. Track your workouts. Get the motivation you need to achieve your fitness goals. And stay connected to the people and information you care about. With Apple Nice, you can do it all.",
+    "description": "Monitor your health. Track your workouts. Get the motivation you need to achieve... actually, this drink achieves the opposite of those things just mentioned.  While the Apple Nice probably won't make you healthier you'll definitely have more fun than if you were sober.  Just tell yourself you'll work out extra hard tomorrow.",
     "imageUrl": "/images/products/cider/hero.png",
     "models": [
       "Apple Nice",
@@ -156,13 +121,6 @@
         }
       },
       {
-        "name": "Finishes",
-        "value": {
-          "Apple Nice": "glass",
-          "Apple Nice Plus": "glass, but in a bigger cup"
-        }
-      },
-      {
         "name": "Size and Weight",
         "value": {
           "Apple Nice": "<b>Height:</b> 0.5 inch<br/><b>Width:</b> 0.5 inch<br/><b>Depth:</b> 0.5 inch<br/><b>Weight:</b> 0.5 pound",
@@ -175,7 +133,7 @@
     "name": "Apple Spice",
     "headline": "Beaty outside. Beast inside.",
     "subheading": "",
-    "description": "Apple Spice lets you watch movies and shows in amazing 4K HDR — and now it completes the picture with immersive sound from Dolby Atmos.1 It streams your favorite channels live. Has great content from apps like Netflix, Amazon Prime Video, and ESPN.2 And thanks to Siri, you can control it all with just your voice.",
+    "description": "The Apple Spice represents the culmination of alcohol and cider technology, perfected through thousands of hours of meticulous trial and error(many hangovers).  We've achieved the optimum ratio of vodka, apple cider and lemon juice and fused them into a tasty drink that will revolutionize alcoholic beverages, again.",
     "imageUrl": "/images/products/fireball/hero.png",
     "models": [
       "Apple Spice",
@@ -201,13 +159,6 @@
         "value": {
           "Apple Spice": "great",
           "Apple Spice Plus": "great, but in a bigger cup"
-        }
-      },
-      {
-        "name": "Finishes",
-        "value": {
-          "Apple Spice": "glass",
-          "Apple Spice Plus": "glass, but in a bigger cup"
         }
       },
       {
