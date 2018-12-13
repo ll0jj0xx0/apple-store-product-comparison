@@ -13,8 +13,8 @@
       {
         "name": "",
         "value": {
-          "Cookie": "<img src='/images/products/cookie/chocolate-chip.png'></img>",
-          "Cookie Plus": "<img src='/images/products/cookie/chocolate-chip.png'></img>"
+          "Cookie": "<img src='/images/products/cookie/cookie.png'></img>",
+          "Cookie Plus": "<img src='/images/products/cookie/cookie-plus.png'></img>"
         }
       },
       {
@@ -76,7 +76,7 @@
         "name": "",
         "value": {
           "Cookie Dark": "<img src='/images/products/cookie-dark/chocolate.png'></img>",
-          "Cookie Dark Plus": "<img src='/images/products/cookie-dark/chocolate.png'></img>"
+          "Cookie Dark Plus": "<img src='/images/products/cookie-dark/chocolate-plus.png'></img>"
         }
       },
       {
